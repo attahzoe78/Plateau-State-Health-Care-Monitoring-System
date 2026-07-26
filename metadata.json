@@ -1,0 +1,6 @@
+{
+  "name": "Plateau Health Monitor",
+  "description": "Plateau State Primary Health Care & Cottage Hospital Management System monitored statewide. Developed by Sisi Technology Ltd, Jos, Plateau State.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
